@@ -1,4 +1,4 @@
-# Academic-Projects
+# Project Objective
 
 Analysis of demographic factors that determine the insurance premiums and health coverage for families in the urban and rural counties in Illinois
 - Influence of population
